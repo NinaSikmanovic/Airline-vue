@@ -1,0 +1,18 @@
+{
+  "login": "Log in",
+  "logout": "Log out",
+  "username": "Username",
+  "password": "Password",
+  "loginError": "Wrong username or password",
+  "flightsFor": "Flights for:",
+  "plane": "Plane:",
+  "flightNumber": "Flight number:",
+  "passengers": "Passengers:",
+  "name": "Name",
+  "surname": "Surname",
+  "numberSeat": "Number seat",
+  "unexpectedError": "An unexpected error has occurred",
+  "noData": "No flights for this date",
+  "usernameLengthWarning": "Username must contain at least 4 characters",
+  "passwordLengthWarning": "Password must contain at least 4 characters"
+}

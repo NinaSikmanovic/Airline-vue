@@ -1,0 +1,18 @@
+{
+  "login": "Prijavi se",
+  "logout": "Odjavi se",
+  "username": "Korisničko ime",
+  "password": "Lozinka",
+  "loginError": "Pogrešno korisničko ime ili lozinka",
+  "flightsFor": "Letovi za:",
+  "plane": "Avion:",
+  "flightNumber": "Broj leta:",
+  "passengers": "Putnici:",
+  "name": "Ime",
+  "surname": "Prezime",
+  "numberSeat": "Broj sjedišta",
+  "unexpectedError": "Desila se neočekivana greška",
+  "noData": "Nema letova za ovaj datum",
+  "usernameLengthWarning": " Korisničko ime mora sadržati barem 4 karaktera",
+  "passwordLengthWarning": "Lozinka mora sadržati barem 4 karaktera"
+}
