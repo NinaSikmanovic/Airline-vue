@@ -50,7 +50,7 @@
 
 <script>
 import users from "/db/users.json";
-import store from '/Users/synergy/Desktop/Vue app/airline-vue-app/src/store/index.js';
+import store from '/src/store/index.js';
 import LanguageDropdown from "@/components/shared/LanguageDropdown";
 
 
